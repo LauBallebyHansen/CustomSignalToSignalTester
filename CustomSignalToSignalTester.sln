@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomSignalsToSignalTester", "..\CustomSignalsToSignalTester\CustomSignalsToSignalTester.csproj", "{A73F8703-11F6-4F35-B9D6-C58F84CA577A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A73F8703-11F6-4F35-B9D6-C58F84CA577A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73F8703-11F6-4F35-B9D6-C58F84CA577A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73F8703-11F6-4F35-B9D6-C58F84CA577A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73F8703-11F6-4F35-B9D6-C58F84CA577A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DED50BBB-DD93-46E0-9323-F0FDCDB2A441}
+	EndGlobalSection
+EndGlobal
